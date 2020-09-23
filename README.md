@@ -1,4 +1,4 @@
-### Hiya! 🐱‍👓
+### Hiya, welcome to my GitHub! 🐱‍👓
 
 
 - 🔭 I’m currently working on ... completing my time at Lambda school and preparing for interviews
