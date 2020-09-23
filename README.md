@@ -1,4 +1,4 @@
-### Hiya! 👋
+### Hiya! 🐱‍👓
 
 
 - 🔭 I’m currently working on ... completing my time at Lambda school and preparing for interviews
