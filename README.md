@@ -3,8 +3,8 @@
 
 Skills: React/Redux | Jest/Cypress Unit Testing | RESTful API | Deployment | Git | NodeJS | Express | SQLite3 | Javascript | Python | HTML | CSS | LESS/SASS
 
-- 🔭 I’m currently working on completing my time at Lambda school and preparing for interviews 
-- 🌱 I’m currently learning about collaboration and teamwork on an 8-week cross-functional project in a mock-work environment with Lambda school. 
+- 🔭 I’m currently searching for a web development position - let's talk! 
+- 🌱 I’m currently working on side projects and practicing code challenges to keep my skills sharp while on the job hunt. 
 - 👯 I’m looking to collaborate on anything web development-related. 
 - 💬 Ask me about ... anything! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lyndsiwilliams/) - [Email](lyndsikaywilliams@gmail.com) 
