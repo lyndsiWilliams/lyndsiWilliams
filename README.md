@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/9QLGA3l.png)
 
 
-Skills: React/Redux | Jest/Cypress Unit Testing | RESTful API | Deployment | Git | NodeJS | Express | SQLite3 | Javascript | Python | HTML | CSS | LESS/SASS
+Skills: React/Redux | Jest/Cypress Unit Testing | RESTful API | Deployment | Git | NodeJS | Express | SQLite3 | Javascript | Python | HTML | CSS | LESS/SASS | MVC architecture
 
 - 🔭 I’m currently searching for a web development position - let's talk! 
 - 🌱 I’m currently working on side projects and practicing code challenges to keep my skills sharp while on the job hunt. 
