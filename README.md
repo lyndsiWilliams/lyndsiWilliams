@@ -3,13 +3,14 @@
 
 Skills: React/Redux | React Testing Library | Jest | RESTful API | Deployment | Git | NodeJS | Express | SQL | GraphQL | Javascript | Typescript | Python | HTML | CSS | LESS/SASS | Agile/Scrum methodology
 
-- 🔭 I’m currently searching for a position in web development - let's talk! 
-- 🌱 I’m currently working on side projects and practicing code challenges to keep my skills sharp while on the job hunt. 
+- 🔭 I’m currently a fullstack software engineer for Preset, I couldn't be happier!
+- 🌱 Mainly, I'm working on front end things in Preset, while playing with side projects in my free time to fine-tune my skills. 
+- 🔥 I have a passion for accessibility, testing, and other cool front end shenanigans.
 - 👯 I’m looking to collaborate on anything web development-related. 
 - 💬 Ask me about ... anything! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lyndsiwilliams/) - [Email](lyndsikaywilliams@gmail.com) 
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I love cats and video games! 🐱‍💻 
+- ⚡ Fun facts: I love cats and video games! 🐱‍💻 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lyndsiWilliams)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lyndsiWilliams/)  
