@@ -4,9 +4,9 @@
 Skills: React/Redux | React Testing Library | Jest | Cypress | RESTful API | Deployment | Git | NodeJS | Express | SQL | GraphQL | Javascript | Typescript | Python | HTML | CSS | LESS/SASS | Agile/Scrum methodology
 
 - 🔭 I’m a front end software engineer, looking for my next opportunity!
-- 🌱 Keeping my skills sharp by building side projects and taking skill-building courses. 
+- 🌱 Keeping my skills sharp by building side projects and taking skill building courses. 
 - 🔥 I have a passion for accessibility, testing, and other cool front end shenanigans.
-- 👯 I’m looking to collaborate on anything web development-related. 
+- 👯 I’m looking to collaborate on anything web development related. 
 - 💬 Ask me about ... anything! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lyndsiwilliams/) - [Email](lyndsikaywilliams@gmail.com) 
 - 😄 Pronouns: she/her 
