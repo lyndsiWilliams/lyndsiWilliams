@@ -7,7 +7,6 @@ Skills: React | Redux | React Context | React Testing Library | Jest | RESTful A
 - 🌱 Keeping my skills sharp by building side projects and taking skill building courses. 
 - 🔥 I have a passion for accessibility, testing, state management, and other cool front end shenanigans.
 - 👯 I’m looking to collaborate on anything web development related. 
-- 💬 Ask me about ... anything! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lyndsiwilliams/) - [Email](lyndsikaywilliams@gmail.com) 
 - 😄 Pronouns: she/her 
 - ⚡ Fun facts: I love cats and video games! 🐱‍💻 
