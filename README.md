@@ -8,7 +8,6 @@ Skills: React | Redux | Vite | React Context | React Native | React Testing Libr
 - 🔥 I have a passion for accessibility, testing, state management, and other cool front end shenanigans.
 - 👯 I’m looking to collaborate on anything web development related. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lyndsiwilliams/) - [Email](lyndsikaywilliams@gmail.com) 
-- 😄 Pronouns: she/her 
 - ⚡ Fun facts: I love cats and video games! 🐱‍💻 
 
 
