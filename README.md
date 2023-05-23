@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/9QLGA3l.png)
 
 
-Skills: React | Redux | Vite | React Context | React Native | React Testing Library | Jest | RESTful API | Javascript | Typescript | HTML | CSS | Emotion |  LESS/SASS | Deployment | Git | GraphQL | NodeJS | Express | SQL | Python | Agile/Scrum methodology
+Skills: React | Redux | Vite | React Context | React Native | React Testing Library | Jest | RESTful API | Javascript | Typescript | HTML | CSS | Emotion | LESS/SASS | Deployment | Git | GraphQL | NodeJS | Express | SQL | Python | Agile/Scrum methodology
 
 - 🔭 I’m a front end software engineer, looking for my next opportunity!
 - 🌱 Keeping my skills sharp by building side projects and taking skill building courses. 
