@@ -6,7 +6,6 @@ Skills: Javascript | Typescript | HTML | CSS | React | Vite | Redux | React Cont
 - 🔭 I’m a front end software engineer, looking for my next opportunity!
 - 🌱 Keeping my skills sharp by building side projects and taking skill building courses. 
 - 🔥 I have a passion for accessibility, testing, state management, and other cool front end shenanigans.
-- 👯 I’m looking to collaborate on anything web development related. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lyndsiwilliams/) - [Email](lyndsikaywilliams@gmail.com) 
 - ⚡ Fun facts: I love cats and video games! 🐱‍💻 
 
