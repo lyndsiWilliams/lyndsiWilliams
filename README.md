@@ -20,5 +20,5 @@ Skills: Javascript | Typescript | HTML | CSS | React | Next.js | Vite | Redux | 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyndsiWilliams)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Profile views](https://gpvc.arturio.dev/lyndsiWilliams) -->
-
+#### Profile views
 ![Profile views](https://profile-counter.glitch.me/lyndsiWilliams/count.svg)
