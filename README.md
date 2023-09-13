@@ -3,8 +3,8 @@
 
 Skills: Javascript | Typescript | HTML | CSS | React | Next.js | Vite | Redux | React Context | React Native | React Testing Library | Jest | RESTful API | Tailwind CSS | Emotion | LESS/SASS | GraphQL | NodeJS | Express | SQL | Python | Deployment | Git | Agile/Scrum methodology
 
-- 🔭 I’m a front end software engineer, looking for my next opportunity!
-- 🌱 Keeping my skills sharp by building side projects and taking skill building courses. 
+- 🔭 I’m a front end software engineer
+- 🌱 Keeping my skills sharp by building side projects and taking skill-building courses. 
 - 🔥 I have a passion for accessibility, testing, state management, and other cool front end shenanigans.
 - 📫 How to reach me: [Calendly](https://calendly.com/lyndsiwilliams/chat) - [LinkedIn](https://www.linkedin.com/in/lyndsiwilliams/) - lyndsikaywilliams@gmail.com
 - ⚡ Fun facts: I love cats and video games! 🐱‍💻 
